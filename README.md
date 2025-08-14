@@ -1,4 +1,4 @@
-# ♟️ ChessMasterEngine — Pure Java Chess Logic
+# ♟️ ChessMasterEngine(StrategicChess) — Pure Java Chess Logic
 
 **ChessMasterEngine** is a handcrafted chess engine built entirely in Java, featuring a clean user interface and fully custom game logic. From move validation to winner detection, every aspect is coded from scratch — no external libraries used.
 
